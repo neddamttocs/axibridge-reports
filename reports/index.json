@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261024-205624-9hte",
+      "title": "Kodiak Whitemantle",
+      "commanders": [
+        "Kodiak Whitemantle"
+      ],
+      "guild": {
+        "id": "BDD83AC9-C346-431E-982A-728548ED5A5D",
+        "name": "Blissful Epidemic",
+        "tag": "Blis"
+      },
+      "dateStart": "2026-10-25T00:56:24.000Z",
+      "dateEnd": "2026-10-25T02:26:17.643Z",
+      "dateLabel": "10/24/2026, 8:56:24 PM - 10/24/2026, 10:26:17 PM",
+      "url": "https://neddamttocs.github.io/axibridge-reports/?report=20261024-205624-9hte",
+      "publishedBy": "neddamttocs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 31,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261023-224740-53i1",
       "title": "Kodiak Whitemantle",
       "commanders": [

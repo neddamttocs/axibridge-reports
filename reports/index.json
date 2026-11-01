@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261031-210613-rs5i",
+      "title": "Xairknightx",
+      "commanders": [
+        "Xairknightx"
+      ],
+      "guild": {
+        "id": "BDD83AC9-C346-431E-982A-728548ED5A5D",
+        "name": "Blissful Epidemic",
+        "tag": "Blis"
+      },
+      "dateStart": "2026-11-01T01:06:13.000Z",
+      "dateEnd": "2026-11-01T01:29:43.055Z",
+      "dateLabel": "10/31/2026, 9:06:13 PM - 10/31/2026, 9:29:43 PM",
+      "url": "https://neddamttocs.github.io/axibridge-reports/?report=20261031-210613-rs5i",
+      "publishedBy": "neddamttocs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261030-210745-snn4",
       "title": "Kodiak Whitemantle, Xairknight",
       "commanders": [

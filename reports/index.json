@@ -5,9 +5,48 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-211145-9ua0",
+      "title": "Xairknightx",
+      "commanders": [
+        "Xairknightx"
+      ],
+      "guild": {
+        "id": "BDD83AC9-C346-431E-982A-728548ED5A5D",
+        "name": "Blissful Epidemic",
+        "tag": "Blis"
+      },
+      "dateStart": "2026-11-08T02:11:45.000Z",
+      "dateEnd": "2026-11-08T02:48:43.637Z",
+      "dateLabel": "11/7/2026, 9:11:45 PM - 11/7/2026, 9:48:43 PM",
+      "url": "https://neddamttocs.github.io/axibridge-reports/?report=20261107-211145-9ua0",
+      "publishedBy": "neddamttocs",
+      "summary": {
+        "borderlandsPct": 0.45161290322580644,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261106-211320-zek2",
       "title": "Xairknight",
